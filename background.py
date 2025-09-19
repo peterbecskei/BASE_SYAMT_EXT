@@ -158,7 +158,7 @@ def start_checking():
     print('Kezdés. LastID =', last_id)
 
     # Simple range window like background.js (e.g., +100)
-    upper = last_id + 10
+    upper = last_id + 20
     for _id in range(last_id, upper + 1):
         # Skip if already known
         if _id in url_data and ('exists' in url_data[_id]):
