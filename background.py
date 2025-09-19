@@ -20,7 +20,7 @@ class Config:
     # START_ID falls back to value in LastID.TXT if present
     START_ID = 1251923
     BASE_URL = 'https://www.automobile.at/boerse/expose/'
-    CHECK_INTERVAL_SECONDS = 0.65  # 650 ms
+    CHECK_INTERVAL_SECONDS = 0.35  # 650 ms
 
     URL_DATA_CSV = 'URL_data.csv'
     LAST_ID_FILE = 'LastID.TXT'
@@ -119,6 +119,25 @@ def http_status(url: str, method: str = 'GET') -> int:
         return 0
 
 
+def get_api_data(api_url: str) -> str:
+    # Get API response text
+    req = Request(url=api_url, method='GET', headers={
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+    })
+    try:
+        with urlopen(req, timeout=20) as resp:
+            if resp.status == 200:
+                return resp.read().decode('utf-8')
+            else:
+                return f"API_ERROR_{resp.status}"
+    except HTTPError as e:
+        return f"API_ERROR_{e.code}"
+    except URLError:
+        return "API_ERROR_CONNECTION"
+    except Exception:
+        return "API_ERROR_UNKNOWN"
+
+
 def check_url(url_data: dict, _id: int) -> bool:
     url = f"{Config.BASE_URL}{_id}"
     status = http_status(url, method='GET')
@@ -134,12 +153,14 @@ def check_url(url_data: dict, _id: int) -> bool:
         status = http_status(url, method='GET')
 
     if status == 200:
-
+        urlapi = f"https://api.automobile.at/api/v1/public/listing/{_id}"
+        elemdata = get_api_data(urlapi)
+    
         url_data[_id] = {
             'exists': True,
             'url': url,
             'timestamp': now_iso(),
-            'elemdata': '',  # keep simple; can be extended
+            'elemdata': elemdata[:30],
         }
         return True
     else:
@@ -147,7 +168,7 @@ def check_url(url_data: dict, _id: int) -> bool:
             'exists': False,
             'url': url,
             'timestamp': now_iso(),
-            'elemdata': '',
+            'elemdata': 'NA',
         }
         return False
 
@@ -158,7 +179,7 @@ def start_checking():
     print('Kezdés. LastID =', last_id)
 
     # Simple range window like background.js (e.g., +100)
-    upper = last_id + 20
+    upper = last_id + 30
     for _id in range(last_id, upper + 1):
         # Skip if already known
         if _id in url_data and ('exists' in url_data[_id]):

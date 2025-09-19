@@ -19,6 +19,7 @@ STORAGE_KEY: 'URL_data'
   const saveCurrentBtn = document.getElementById('saveCurrent');
   const viewSavedBtn = document.getElementById('viewSaved');
   const statusDiv = document.getElementById('status');
+  const appTitle = document.getElementById('appTitle');
   const savedList = document.getElementById('savedList');
   let lastStartCheckResponse = null;
   
@@ -44,6 +45,9 @@ STORAGE_KEY: 'URL_data'
       if (result["LastID"]) {
         LastID = result["LastID"];
         console.log('Adatok betöltve lastID:', LastID, ' ');
+        if (appTitle) {
+          appTitle.textContent = ` LastID: ${LastID}`;
+        }
       } else {
         // Nincs tárolt adat: állítsunk alapértelmezett START_ID értéket
             console.log('Nincs tárolt adat:');
@@ -59,6 +63,11 @@ STORAGE_KEY: 'URL_data'
       OldID = changes.LastID.oldValue;
       LastID = changes.LastID.newValue
       loadRecentItems();
+      if (appTitle) {
+        const shown = (LastID !== undefined && LastID !== null) ? LastID : '';
+        appTitle.textContent = `Tab HTML Saver (LastID: ${shown})`;
+      }
+      
     }
   });
 

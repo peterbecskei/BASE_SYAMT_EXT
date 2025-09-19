@@ -1,109 +1,92 @@
 id,exists,url,timestamp,elemdata
-1251923,false,https://www.automobile.at/boerse/expose/1251923,2025-09-19T15:15:22.095871,
-1251924,false,https://www.automobile.at/boerse/expose/1251924,2025-09-19T15:15:23.013912,
-1251925,false,https://www.automobile.at/boerse/expose/1251925,2025-09-19T15:15:23.944174,
-1251926,true,https://www.automobile.at/boerse/expose/1251926,2025-09-19T15:15:25.125578,
-1251927,true,https://www.automobile.at/boerse/expose/1251927,2025-09-19T15:15:26.346553,
-1251928,false,https://www.automobile.at/boerse/expose/1251928,2025-09-19T15:15:27.337304,
-1251929,true,https://www.automobile.at/boerse/expose/1251929,2025-09-19T15:15:28.507019,
-1251930,true,https://www.automobile.at/boerse/expose/1251930,2025-09-19T15:15:29.709506,
-1251931,true,https://www.automobile.at/boerse/expose/1251931,2025-09-19T15:15:30.931355,
-1251932,false,https://www.automobile.at/boerse/expose/1251932,2025-09-19T15:15:31.856531,
-1251933,false,https://www.automobile.at/boerse/expose/1251933,2025-09-19T15:15:32.743148,
-1251934,true,https://www.automobile.at/boerse/expose/1251934,2025-09-19T15:19:08.835234,
-1251935,true,https://www.automobile.at/boerse/expose/1251935,2025-09-19T15:19:10.066731,
-1251936,true,https://www.automobile.at/boerse/expose/1251936,2025-09-19T15:19:11.288111,
-1251937,true,https://www.automobile.at/boerse/expose/1251937,2025-09-19T15:19:12.487548,
-1251938,true,https://www.automobile.at/boerse/expose/1251938,2025-09-19T15:19:13.732315,
-1251939,true,https://www.automobile.at/boerse/expose/1251939,2025-09-19T15:19:14.892534,
-1251940,true,https://www.automobile.at/boerse/expose/1251940,2025-09-19T15:19:16.037600,
-1251941,true,https://www.automobile.at/boerse/expose/1251941,2025-09-19T15:19:17.290159,
-1251942,true,https://www.automobile.at/boerse/expose/1251942,2025-09-19T15:19:18.454272,
-1251943,true,https://www.automobile.at/boerse/expose/1251943,2025-09-19T15:19:19.656610,
-1251944,true,https://www.automobile.at/boerse/expose/1251944,2025-09-19T15:19:20.987498,
-1251945,true,https://www.automobile.at/boerse/expose/1251945,2025-09-19T15:19:22.137230,
-1251946,true,https://www.automobile.at/boerse/expose/1251946,2025-09-19T15:19:23.319168,
-1251947,true,https://www.automobile.at/boerse/expose/1251947,2025-09-19T15:19:24.569767,
-1251948,true,https://www.automobile.at/boerse/expose/1251948,2025-09-19T15:19:25.687726,
-1251949,true,https://www.automobile.at/boerse/expose/1251949,2025-09-19T15:19:26.959113,
-1251950,true,https://www.automobile.at/boerse/expose/1251950,2025-09-19T15:19:28.139885,
-1251951,true,https://www.automobile.at/boerse/expose/1251951,2025-09-19T15:19:29.361060,
-1251952,true,https://www.automobile.at/boerse/expose/1251952,2025-09-19T15:24:05.760707,
-1251953,true,https://www.automobile.at/boerse/expose/1251953,2025-09-19T15:24:06.959243,
-1251954,true,https://www.automobile.at/boerse/expose/1251954,2025-09-19T15:24:08.194551,
-1251955,true,https://www.automobile.at/boerse/expose/1251955,2025-09-19T15:24:09.291112,
-1251956,true,https://www.automobile.at/boerse/expose/1251956,2025-09-19T15:24:10.430590,
-1251957,true,https://www.automobile.at/boerse/expose/1251957,2025-09-19T15:24:11.620969,
-1251958,true,https://www.automobile.at/boerse/expose/1251958,2025-09-19T15:24:12.787464,
-1251959,true,https://www.automobile.at/boerse/expose/1251959,2025-09-19T15:24:13.934252,
-1251960,true,https://www.automobile.at/boerse/expose/1251960,2025-09-19T15:24:17.620436,
-1251961,true,https://www.automobile.at/boerse/expose/1251961,2025-09-19T15:24:18.802187,
-1251962,true,https://www.automobile.at/boerse/expose/1251962,2025-09-19T15:24:19.962473,
-1251963,true,https://www.automobile.at/boerse/expose/1251963,2025-09-19T15:24:21.203610,
-1251964,true,https://www.automobile.at/boerse/expose/1251964,2025-09-19T15:24:22.477738,
-1251965,true,https://www.automobile.at/boerse/expose/1251965,2025-09-19T15:24:24.049130,
-1251966,false,https://www.automobile.at/boerse/expose/1251966,2025-09-19T15:24:24.967389,
-1251967,false,https://www.automobile.at/boerse/expose/1251967,2025-09-19T15:24:25.943137,
-1251968,false,https://www.automobile.at/boerse/expose/1251968,2025-09-19T15:24:26.798192,
-1251969,true,https://www.automobile.at/boerse/expose/1251969,2025-09-19T15:24:27.946670,
-1251970,false,https://www.automobile.at/boerse/expose/1251970,2025-09-19T15:24:28.815888,
-1251971,true,https://www.automobile.at/boerse/expose/1251971,2025-09-19T15:24:29.992310,
-1251972,true,https://www.automobile.at/boerse/expose/1251972,2025-09-19T15:26:13.092589,
-1251973,true,https://www.automobile.at/boerse/expose/1251973,2025-09-19T15:26:14.414260,
-1251974,true,https://www.automobile.at/boerse/expose/1251974,2025-09-19T15:26:15.607235,
-1251975,true,https://www.automobile.at/boerse/expose/1251975,2025-09-19T15:26:16.836967,
-1251976,true,https://www.automobile.at/boerse/expose/1251976,2025-09-19T15:26:18.063180,
-1251977,true,https://www.automobile.at/boerse/expose/1251977,2025-09-19T15:26:19.269144,
-1251978,false,https://www.automobile.at/boerse/expose/1251978,2025-09-19T15:26:20.181780,
-1251979,true,https://www.automobile.at/boerse/expose/1251979,2025-09-19T15:26:21.454292,
-1251980,true,https://www.automobile.at/boerse/expose/1251980,2025-09-19T15:26:22.654122,
-1251981,true,https://www.automobile.at/boerse/expose/1251981,2025-09-19T15:26:23.873356,
-1251982,true,https://www.automobile.at/boerse/expose/1251982,2025-09-19T15:26:25.109680,
-1251983,true,https://www.automobile.at/boerse/expose/1251983,2025-09-19T15:26:26.335143,
-1251984,true,https://www.automobile.at/boerse/expose/1251984,2025-09-19T15:26:27.470127,
-1251985,true,https://www.automobile.at/boerse/expose/1251985,2025-09-19T15:26:28.661986,
-1251986,true,https://www.automobile.at/boerse/expose/1251986,2025-09-19T15:26:29.817417,
-1251987,true,https://www.automobile.at/boerse/expose/1251987,2025-09-19T15:26:31.010921,
-1251988,true,https://www.automobile.at/boerse/expose/1251988,2025-09-19T15:26:32.113219,
-1251989,false,https://www.automobile.at/boerse/expose/1251989,2025-09-19T15:26:33.016625,
-1251990,true,https://www.automobile.at/boerse/expose/1251990,2025-09-19T15:26:34.172931,
-1251991,true,https://www.automobile.at/boerse/expose/1251991,2025-09-19T15:26:35.379598,
-1251992,true,https://www.automobile.at/boerse/expose/1251992,2025-09-19T15:29:56.425458,
-1251993,true,https://www.automobile.at/boerse/expose/1251993,2025-09-19T15:29:57.659652,
-1251994,true,https://www.automobile.at/boerse/expose/1251994,2025-09-19T15:29:58.788437,
-1251995,true,https://www.automobile.at/boerse/expose/1251995,2025-09-19T15:29:59.909157,
-1251996,true,https://www.automobile.at/boerse/expose/1251996,2025-09-19T15:30:01.090140,
-1251997,false,https://www.automobile.at/boerse/expose/1251997,2025-09-19T15:30:02.018172,
-1251998,true,https://www.automobile.at/boerse/expose/1251998,2025-09-19T15:30:03.194204,
-1251999,true,https://www.automobile.at/boerse/expose/1251999,2025-09-19T15:30:04.315337,
-1252000,true,https://www.automobile.at/boerse/expose/1252000,2025-09-19T15:30:05.579259,
-1252001,true,https://www.automobile.at/boerse/expose/1252001,2025-09-19T15:30:06.744860,
-1252002,true,https://www.automobile.at/boerse/expose/1252002,2025-09-19T15:30:07.940658,
-1252003,false,https://www.automobile.at/boerse/expose/1252003,2025-09-19T15:30:08.930713,
-1252004,false,https://www.automobile.at/boerse/expose/1252004,2025-09-19T15:30:09.911194,
-1252005,true,https://www.automobile.at/boerse/expose/1252005,2025-09-19T15:30:11.047185,
-1252006,true,https://www.automobile.at/boerse/expose/1252006,2025-09-19T15:30:12.212823,
-1252007,true,https://www.automobile.at/boerse/expose/1252007,2025-09-19T15:30:13.400701,
-1252008,true,https://www.automobile.at/boerse/expose/1252008,2025-09-19T15:30:14.548023,
-1252009,false,https://www.automobile.at/boerse/expose/1252009,2025-09-19T15:30:15.589751,
-1252010,true,https://www.automobile.at/boerse/expose/1252010,2025-09-19T15:30:16.794320,
-1252011,false,https://www.automobile.at/boerse/expose/1252011,2025-09-19T15:30:17.665125,
-1252012,false,https://www.automobile.at/boerse/expose/1252012,2025-09-19T15:34:28.757794+00:00,
-1252013,false,https://www.automobile.at/boerse/expose/1252013,2025-09-19T15:34:29.802428+00:00,
-1252014,false,https://www.automobile.at/boerse/expose/1252014,2025-09-19T15:34:30.676272+00:00,
-1252015,true,https://www.automobile.at/boerse/expose/1252015,2025-09-19T15:34:32.077257+00:00,
-1252016,true,https://www.automobile.at/boerse/expose/1252016,2025-09-19T15:34:33.373246+00:00,
-1252017,false,https://www.automobile.at/boerse/expose/1252017,2025-09-19T15:34:34.341087+00:00,
-1252018,true,https://www.automobile.at/boerse/expose/1252018,2025-09-19T15:34:35.498297+00:00,
-1252019,true,https://www.automobile.at/boerse/expose/1252019,2025-09-19T15:34:36.706060+00:00,
-1252020,true,https://www.automobile.at/boerse/expose/1252020,2025-09-19T15:34:37.968132+00:00,
-1252021,false,https://www.automobile.at/boerse/expose/1252021,2025-09-19T15:34:38.981729+00:00,
-1252022,true,https://www.automobile.at/boerse/expose/1252022,2025-09-19T15:34:40.232833+00:00,
-1252023,true,https://www.automobile.at/boerse/expose/1252023,2025-09-19T15:34:41.426740+00:00,
-1252024,true,https://www.automobile.at/boerse/expose/1252024,2025-09-19T15:34:42.685171+00:00,
-1252025,true,https://www.automobile.at/boerse/expose/1252025,2025-09-19T15:34:43.887382+00:00,
-1252026,true,https://www.automobile.at/boerse/expose/1252026,2025-09-19T15:34:45.135908+00:00,
-1252027,true,https://www.automobile.at/boerse/expose/1252027,2025-09-19T15:34:46.392395+00:00,
-1252028,false,https://www.automobile.at/boerse/expose/1252028,2025-09-19T15:34:47.245030+00:00,
-1252029,false,https://www.automobile.at/boerse/expose/1252029,2025-09-19T15:34:48.118318+00:00,
-1252030,false,https://www.automobile.at/boerse/expose/1252030,2025-09-19T15:34:48.968250+00:00,
+1252046,true,https://www.automobile.at/boerse/expose/1252046,2025-09-19T15:51:27.904340+00:00,<built-in method title of str object at 0x000001A2C123C850>
+1252047,false,https://www.automobile.at/boerse/expose/1252047,2025-09-19T15:51:28.589443+00:00,NA
+1252048,true,https://www.automobile.at/boerse/expose/1252048,2025-09-19T15:51:29.826401+00:00,<built-in method title of str object at 0x000001A2C132CA60>
+1252049,true,https://www.automobile.at/boerse/expose/1252049,2025-09-19T15:51:31.055835+00:00,<built-in method title of str object at 0x000001A2C1792770>
+1252050,true,https://www.automobile.at/boerse/expose/1252050,2025-09-19T15:51:32.078906+00:00,<built-in method title of str object at 0x000001A2C1311060>
+1252051,true,https://www.automobile.at/boerse/expose/1252051,2025-09-19T15:51:33.110630+00:00,<built-in method title of str object at 0x000001A2C178A040>
+1252052,true,https://www.automobile.at/boerse/expose/1252052,2025-09-19T15:51:34.267316+00:00,<built-in method title of str object at 0x000001A2C179AE30>
+1252053,true,https://www.automobile.at/boerse/expose/1252053,2025-09-19T15:51:35.406048+00:00,<built-in method title of str object at 0x000001A2C1240C50>
+1252054,false,https://www.automobile.at/boerse/expose/1252054,2025-09-19T15:51:36.053799+00:00,NA
+1252055,false,https://www.automobile.at/boerse/expose/1252055,2025-09-19T15:51:36.676084+00:00,NA
+1252056,true,https://www.automobile.at/boerse/expose/1252056,2025-09-19T15:51:37.727349+00:00,<built-in method title of str object at 0x000001A2C17A5BB0>
+1252057,true,https://www.automobile.at/boerse/expose/1252057,2025-09-19T15:51:38.800555+00:00,<built-in method title of str object at 0x000001A2C134A040>
+1252058,false,https://www.automobile.at/boerse/expose/1252058,2025-09-19T15:51:39.358044+00:00,NA
+1252059,true,https://www.automobile.at/boerse/expose/1252059,2025-09-19T15:51:40.413378+00:00,<built-in method title of str object at 0x000001A2C178DCC0>
+1252060,true,https://www.automobile.at/boerse/expose/1252060,2025-09-19T15:51:41.483868+00:00,<built-in method title of str object at 0x000001A2C13307B0>
+1252061,true,https://www.automobile.at/boerse/expose/1252061,2025-09-19T15:51:42.558255+00:00,<built-in method title of str object at 0x000001A2C13367F0>
+1252062,true,https://www.automobile.at/boerse/expose/1252062,2025-09-19T15:51:43.652974+00:00,<built-in method title of str object at 0x000001A2C177C9F0>
+1252063,true,https://www.automobile.at/boerse/expose/1252063,2025-09-19T15:51:44.662160+00:00,<built-in method title of str object at 0x000001A2C13B9040>
+1252064,true,https://www.automobile.at/boerse/expose/1252064,2025-09-19T15:51:45.709383+00:00,<built-in method title of str object at 0x000001A2C13C9040>
+1252065,true,https://www.automobile.at/boerse/expose/1252065,2025-09-19T15:51:46.663404+00:00,<built-in method title of str object at 0x000001A2C13336D0>
+1252066,true,https://www.automobile.at/boerse/expose/1252066,2025-09-19T15:51:47.754500+00:00,<built-in method title of str object at 0x000001A2C1783E40>
+1252067,false,https://www.automobile.at/boerse/expose/1252067,2025-09-19T15:51:48.358514+00:00,NA
+1252068,false,https://www.automobile.at/boerse/expose/1252068,2025-09-19T15:51:48.915544+00:00,NA
+1252069,false,https://www.automobile.at/boerse/expose/1252069,2025-09-19T15:51:49.507484+00:00,NA
+1252070,true,https://www.automobile.at/boerse/expose/1252070,2025-09-19T15:51:50.492383+00:00,<built-in method title of str object at 0x000001A2C178AD70>
+1252071,true,https://www.automobile.at/boerse/expose/1252071,2025-09-19T15:51:51.583734+00:00,<built-in method title of str object at 0x000001A2C17AFCE0>
+1252072,true,https://www.automobile.at/boerse/expose/1252072,2025-09-19T15:51:52.630694+00:00,<built-in method title of str object at 0x000001A2C17A2D40>
+1252073,false,https://www.automobile.at/boerse/expose/1252073,2025-09-19T15:51:53.190522+00:00,NA
+1252074,false,https://www.automobile.at/boerse/expose/1252074,2025-09-19T15:51:53.771884+00:00,NA
+1252075,true,https://www.automobile.at/boerse/expose/1252075,2025-09-19T15:51:54.902140+00:00,<built-in method title of str object at 0x000001A2C17878B0>
+1252076,true,https://www.automobile.at/boerse/expose/1252076,2025-09-19T15:51:55.975161+00:00,<built-in method title of str object at 0x000001A2C17A8A20>
+1252077,true,https://www.automobile.at/boerse/expose/1252077,2025-09-19T15:53:55.288826+00:00,<built-in method title of str object at 0x000001F7F04BE6B0>
+1252078,true,https://www.automobile.at/boerse/expose/1252078,2025-09-19T15:53:56.503065+00:00,<built-in method title of str object at 0x000001F7EFFF6EC0>
+1252079,true,https://www.automobile.at/boerse/expose/1252079,2025-09-19T15:53:57.635199+00:00,<built-in method title of str object at 0x000001F7F04C2690>
+1252080,true,https://www.automobile.at/boerse/expose/1252080,2025-09-19T15:53:58.571021+00:00,<built-in method title of str object at 0x000001F7F04C1710>
+1252081,true,https://www.automobile.at/boerse/expose/1252081,2025-09-19T15:53:59.524400+00:00,<built-in method title of str object at 0x000001F7EDE40EE0>
+1252082,false,https://www.automobile.at/boerse/expose/1252082,2025-09-19T15:54:00.100571+00:00,NA
+1252083,true,https://www.automobile.at/boerse/expose/1252083,2025-09-19T15:54:01.116477+00:00,<built-in method title of str object at 0x000001F7F04BF650>
+1252084,true,https://www.automobile.at/boerse/expose/1252084,2025-09-19T15:54:02.095268+00:00,<built-in method title of str object at 0x000001F7EFF9FC90>
+1252085,true,https://www.automobile.at/boerse/expose/1252085,2025-09-19T15:54:03.051465+00:00,<built-in method title of str object at 0x000001F7EFFA1750>
+1252086,true,https://www.automobile.at/boerse/expose/1252086,2025-09-19T15:54:04.022574+00:00,<built-in method title of str object at 0x000001F7EFFA05C0>
+1252087,true,https://www.automobile.at/boerse/expose/1252087,2025-09-19T15:54:04.978108+00:00,<built-in method title of str object at 0x000001F7F04C3620>
+1252088,true,https://www.automobile.at/boerse/expose/1252088,2025-09-19T15:54:05.913632+00:00,<built-in method title of str object at 0x000001F7EFFA41F0>
+1252089,true,https://www.automobile.at/boerse/expose/1252089,2025-09-19T15:54:06.894389+00:00,<built-in method title of str object at 0x000001F7F0930240>
+1252090,true,https://www.automobile.at/boerse/expose/1252090,2025-09-19T15:54:07.865370+00:00,<built-in method title of str object at 0x000001F7F0931440>
+1252091,true,https://www.automobile.at/boerse/expose/1252091,2025-09-19T15:54:08.824382+00:00,<built-in method title of str object at 0x000001F7F0930B40>
+1252092,true,https://www.automobile.at/boerse/expose/1252092,2025-09-19T15:54:09.744766+00:00,<built-in method title of str object at 0x000001F7F0932640>
+1252093,true,https://www.automobile.at/boerse/expose/1252093,2025-09-19T15:54:10.869810+00:00,<built-in method title of str object at 0x000001F7EFFA8FA0>
+1252094,true,https://www.automobile.at/boerse/expose/1252094,2025-09-19T15:54:11.967684+00:00,<built-in method title of str object at 0x000001F7F051C7D0>
+1252095,false,https://www.automobile.at/boerse/expose/1252095,2025-09-19T15:54:12.540308+00:00,NA
+1252096,false,https://www.automobile.at/boerse/expose/1252096,2025-09-19T15:54:13.125227+00:00,NA
+1252097,true,https://www.automobile.at/boerse/expose/1252097,2025-09-19T15:54:14.177477+00:00,<built-in method title of str object at 0x000001F7F0519940>
+1252098,false,https://www.automobile.at/boerse/expose/1252098,2025-09-19T15:54:14.746544+00:00,NA
+1252099,true,https://www.automobile.at/boerse/expose/1252099,2025-09-19T15:54:15.774464+00:00,<built-in method title of str object at 0x000001F7F0514060>
+1252100,true,https://www.automobile.at/boerse/expose/1252100,2025-09-19T15:54:16.941600+00:00,<built-in method title of str object at 0x000001F7F05257E0>
+1252101,true,https://www.automobile.at/boerse/expose/1252101,2025-09-19T15:54:18.023879+00:00,<built-in method title of str object at 0x000001F7F097D040>
+1252102,true,https://www.automobile.at/boerse/expose/1252102,2025-09-19T15:54:19.122494+00:00,<built-in method title of str object at 0x000001F7F0983AA0>
+1252103,true,https://www.automobile.at/boerse/expose/1252103,2025-09-19T15:54:20.235078+00:00,<built-in method title of str object at 0x000001F7EFFA73F0>
+1252104,true,https://www.automobile.at/boerse/expose/1252104,2025-09-19T15:54:21.265537+00:00,<built-in method title of str object at 0x000001F7F052C350>
+1252105,true,https://www.automobile.at/boerse/expose/1252105,2025-09-19T15:54:22.344963+00:00,<built-in method title of str object at 0x000001F7F0997EB0>
+1252106,true,https://www.automobile.at/boerse/expose/1252106,2025-09-19T15:54:23.430727+00:00,<built-in method title of str object at 0x000001F7F098E040>
+1252107,false,https://www.automobile.at/boerse/expose/1252107,2025-09-19T15:55:38.480064+00:00,NA
+1252108,true,https://www.automobile.at/boerse/expose/1252108,2025-09-19T15:57:05.726323+00:00,"{""title"":""Ford Grand C-Max Tit"
+1252109,true,https://www.automobile.at/boerse/expose/1252109,2025-09-19T15:57:06.766018+00:00,"{""title"":""Ford Transit 350 L2 "
+1252110,false,https://www.automobile.at/boerse/expose/1252110,2025-09-19T15:57:07.464295+00:00,NA
+1252111,false,https://www.automobile.at/boerse/expose/1252111,2025-09-19T15:57:08.149100+00:00,NA
+1252112,false,https://www.automobile.at/boerse/expose/1252112,2025-09-19T15:57:08.719882+00:00,NA
+1252113,true,https://www.automobile.at/boerse/expose/1252113,2025-09-19T15:57:09.857862+00:00,"{""title"":""BMW 318 d Advantage "
+1252114,false,https://www.automobile.at/boerse/expose/1252114,2025-09-19T15:57:10.487395+00:00,NA
+1252115,true,https://www.automobile.at/boerse/expose/1252115,2025-09-19T15:57:11.542043+00:00,"{""title"":""Volvo XC40 Momentum "
+1252116,true,https://www.automobile.at/boerse/expose/1252116,2025-09-19T15:57:12.600061+00:00,"{""title"":""Audi A3 35 TDI ''LED"
+1252117,true,https://www.automobile.at/boerse/expose/1252117,2025-09-19T15:57:13.748434+00:00,"{""title"":""Ford Fiesta Titanium"
+1252118,true,https://www.automobile.at/boerse/expose/1252118,2025-09-19T15:57:14.844158+00:00,"{""title"":""Nissan Qashqai 1.7 N"
+1252119,true,https://www.automobile.at/boerse/expose/1252119,2025-09-19T15:57:15.840246+00:00,"{""title"":""Skoda Octavia Combi "
+1252120,true,https://www.automobile.at/boerse/expose/1252120,2025-09-19T15:57:16.969299+00:00,"{""title"":""Mercedes A 180 Kompa"
+1252121,false,https://www.automobile.at/boerse/expose/1252121,2025-09-19T15:57:17.534491+00:00,NA
+1252122,true,https://www.automobile.at/boerse/expose/1252122,2025-09-19T15:57:18.579625+00:00,"{""title"":""Mercedes EQE SUV EQE"
+1252123,true,https://www.automobile.at/boerse/expose/1252123,2025-09-19T15:57:19.637252+00:00,"{""title"":""VW Passat 2.0 TDI BM"
+1252124,true,https://www.automobile.at/boerse/expose/1252124,2025-09-19T15:57:20.719153+00:00,"{""title"":""Ford Mondeo Travelle"
+1252125,false,https://www.automobile.at/boerse/expose/1252125,2025-09-19T15:57:21.262439+00:00,NA
+1252126,false,https://www.automobile.at/boerse/expose/1252126,2025-09-19T15:57:21.863786+00:00,NA
+1252127,true,https://www.automobile.at/boerse/expose/1252127,2025-09-19T15:57:22.945081+00:00,"{""title"":""Ford Kuga 2,5 Durate"
+1252128,true,https://www.automobile.at/boerse/expose/1252128,2025-09-19T15:57:24.017440+00:00,"{""title"":""MG ZS HEV+ +RFK+ACC"""
+1252129,true,https://www.automobile.at/boerse/expose/1252129,2025-09-19T15:57:25.094680+00:00,"{""title"":""MG ZS HEV+ +RFK+ACC"""
+1252130,true,https://www.automobile.at/boerse/expose/1252130,2025-09-19T15:57:26.049666+00:00,"{""title"":""MG ZS HEV+ +RFK+ACC"""
+1252131,true,https://www.automobile.at/boerse/expose/1252131,2025-09-19T15:57:26.991589+00:00,"{""title"":""MG ZS HEV+ +RFK+ACC"""
+1252132,true,https://www.automobile.at/boerse/expose/1252132,2025-09-19T15:57:27.986530+00:00,"{""title"":""MG MG3 Select +ACC+R"
+1252133,true,https://www.automobile.at/boerse/expose/1252133,2025-09-19T15:57:28.988402+00:00,"{""title"":""MG ZS HEV+ +RFK+ACC"""
+1252134,true,https://www.automobile.at/boerse/expose/1252134,2025-09-19T15:57:29.988003+00:00,"{""title"":""MG ZS HEV+ +RFK+ACC"""
+1252135,true,https://www.automobile.at/boerse/expose/1252135,2025-09-19T15:57:30.952216+00:00,"{""title"":""MG MG3 1,5 HEV Luxur"
+1252136,true,https://www.automobile.at/boerse/expose/1252136,2025-09-19T15:57:32.032050+00:00,"{""title"":""MG MG3 1,5 HEV Luxur"
