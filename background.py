@@ -10,7 +10,7 @@ import csv
 import os
 import time
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
@@ -27,7 +27,7 @@ class Config:
 
 
 def now_iso() -> str:
-    return datetime.utcnow().isoformat()
+    return datetime.now(timezone.utc).isoformat()
 
 
 def load_last_id() -> int:
