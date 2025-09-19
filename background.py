@@ -134,7 +134,7 @@ def check_url(url_data: dict, _id: int) -> bool:
         status = http_status(url, method='GET')
 
     if status == 200:
-        
+
         url_data[_id] = {
             'exists': True,
             'url': url,
@@ -158,7 +158,7 @@ def start_checking():
     print('Kezdés. LastID =', last_id)
 
     # Simple range window like background.js (e.g., +100)
-    upper = last_id + 100
+    upper = last_id + 10
     for _id in range(last_id, upper + 1):
         # Skip if already known
         if _id in url_data and ('exists' in url_data[_id]):
