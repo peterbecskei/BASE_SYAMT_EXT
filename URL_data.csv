@@ -1,92 +1,119 @@
 id,exists,url,timestamp,elemdata
-1252046,true,https://www.automobile.at/boerse/expose/1252046,2025-09-19T15:51:27.904340+00:00,<built-in method title of str object at 0x000001A2C123C850>
-1252047,false,https://www.automobile.at/boerse/expose/1252047,2025-09-19T15:51:28.589443+00:00,NA
-1252048,true,https://www.automobile.at/boerse/expose/1252048,2025-09-19T15:51:29.826401+00:00,<built-in method title of str object at 0x000001A2C132CA60>
-1252049,true,https://www.automobile.at/boerse/expose/1252049,2025-09-19T15:51:31.055835+00:00,<built-in method title of str object at 0x000001A2C1792770>
-1252050,true,https://www.automobile.at/boerse/expose/1252050,2025-09-19T15:51:32.078906+00:00,<built-in method title of str object at 0x000001A2C1311060>
-1252051,true,https://www.automobile.at/boerse/expose/1252051,2025-09-19T15:51:33.110630+00:00,<built-in method title of str object at 0x000001A2C178A040>
-1252052,true,https://www.automobile.at/boerse/expose/1252052,2025-09-19T15:51:34.267316+00:00,<built-in method title of str object at 0x000001A2C179AE30>
-1252053,true,https://www.automobile.at/boerse/expose/1252053,2025-09-19T15:51:35.406048+00:00,<built-in method title of str object at 0x000001A2C1240C50>
-1252054,false,https://www.automobile.at/boerse/expose/1252054,2025-09-19T15:51:36.053799+00:00,NA
-1252055,false,https://www.automobile.at/boerse/expose/1252055,2025-09-19T15:51:36.676084+00:00,NA
-1252056,true,https://www.automobile.at/boerse/expose/1252056,2025-09-19T15:51:37.727349+00:00,<built-in method title of str object at 0x000001A2C17A5BB0>
-1252057,true,https://www.automobile.at/boerse/expose/1252057,2025-09-19T15:51:38.800555+00:00,<built-in method title of str object at 0x000001A2C134A040>
-1252058,false,https://www.automobile.at/boerse/expose/1252058,2025-09-19T15:51:39.358044+00:00,NA
-1252059,true,https://www.automobile.at/boerse/expose/1252059,2025-09-19T15:51:40.413378+00:00,<built-in method title of str object at 0x000001A2C178DCC0>
-1252060,true,https://www.automobile.at/boerse/expose/1252060,2025-09-19T15:51:41.483868+00:00,<built-in method title of str object at 0x000001A2C13307B0>
-1252061,true,https://www.automobile.at/boerse/expose/1252061,2025-09-19T15:51:42.558255+00:00,<built-in method title of str object at 0x000001A2C13367F0>
-1252062,true,https://www.automobile.at/boerse/expose/1252062,2025-09-19T15:51:43.652974+00:00,<built-in method title of str object at 0x000001A2C177C9F0>
-1252063,true,https://www.automobile.at/boerse/expose/1252063,2025-09-19T15:51:44.662160+00:00,<built-in method title of str object at 0x000001A2C13B9040>
-1252064,true,https://www.automobile.at/boerse/expose/1252064,2025-09-19T15:51:45.709383+00:00,<built-in method title of str object at 0x000001A2C13C9040>
-1252065,true,https://www.automobile.at/boerse/expose/1252065,2025-09-19T15:51:46.663404+00:00,<built-in method title of str object at 0x000001A2C13336D0>
-1252066,true,https://www.automobile.at/boerse/expose/1252066,2025-09-19T15:51:47.754500+00:00,<built-in method title of str object at 0x000001A2C1783E40>
-1252067,false,https://www.automobile.at/boerse/expose/1252067,2025-09-19T15:51:48.358514+00:00,NA
-1252068,false,https://www.automobile.at/boerse/expose/1252068,2025-09-19T15:51:48.915544+00:00,NA
-1252069,false,https://www.automobile.at/boerse/expose/1252069,2025-09-19T15:51:49.507484+00:00,NA
-1252070,true,https://www.automobile.at/boerse/expose/1252070,2025-09-19T15:51:50.492383+00:00,<built-in method title of str object at 0x000001A2C178AD70>
-1252071,true,https://www.automobile.at/boerse/expose/1252071,2025-09-19T15:51:51.583734+00:00,<built-in method title of str object at 0x000001A2C17AFCE0>
-1252072,true,https://www.automobile.at/boerse/expose/1252072,2025-09-19T15:51:52.630694+00:00,<built-in method title of str object at 0x000001A2C17A2D40>
-1252073,false,https://www.automobile.at/boerse/expose/1252073,2025-09-19T15:51:53.190522+00:00,NA
-1252074,false,https://www.automobile.at/boerse/expose/1252074,2025-09-19T15:51:53.771884+00:00,NA
-1252075,true,https://www.automobile.at/boerse/expose/1252075,2025-09-19T15:51:54.902140+00:00,<built-in method title of str object at 0x000001A2C17878B0>
-1252076,true,https://www.automobile.at/boerse/expose/1252076,2025-09-19T15:51:55.975161+00:00,<built-in method title of str object at 0x000001A2C17A8A20>
-1252077,true,https://www.automobile.at/boerse/expose/1252077,2025-09-19T15:53:55.288826+00:00,<built-in method title of str object at 0x000001F7F04BE6B0>
-1252078,true,https://www.automobile.at/boerse/expose/1252078,2025-09-19T15:53:56.503065+00:00,<built-in method title of str object at 0x000001F7EFFF6EC0>
-1252079,true,https://www.automobile.at/boerse/expose/1252079,2025-09-19T15:53:57.635199+00:00,<built-in method title of str object at 0x000001F7F04C2690>
-1252080,true,https://www.automobile.at/boerse/expose/1252080,2025-09-19T15:53:58.571021+00:00,<built-in method title of str object at 0x000001F7F04C1710>
-1252081,true,https://www.automobile.at/boerse/expose/1252081,2025-09-19T15:53:59.524400+00:00,<built-in method title of str object at 0x000001F7EDE40EE0>
-1252082,false,https://www.automobile.at/boerse/expose/1252082,2025-09-19T15:54:00.100571+00:00,NA
-1252083,true,https://www.automobile.at/boerse/expose/1252083,2025-09-19T15:54:01.116477+00:00,<built-in method title of str object at 0x000001F7F04BF650>
-1252084,true,https://www.automobile.at/boerse/expose/1252084,2025-09-19T15:54:02.095268+00:00,<built-in method title of str object at 0x000001F7EFF9FC90>
-1252085,true,https://www.automobile.at/boerse/expose/1252085,2025-09-19T15:54:03.051465+00:00,<built-in method title of str object at 0x000001F7EFFA1750>
-1252086,true,https://www.automobile.at/boerse/expose/1252086,2025-09-19T15:54:04.022574+00:00,<built-in method title of str object at 0x000001F7EFFA05C0>
-1252087,true,https://www.automobile.at/boerse/expose/1252087,2025-09-19T15:54:04.978108+00:00,<built-in method title of str object at 0x000001F7F04C3620>
-1252088,true,https://www.automobile.at/boerse/expose/1252088,2025-09-19T15:54:05.913632+00:00,<built-in method title of str object at 0x000001F7EFFA41F0>
-1252089,true,https://www.automobile.at/boerse/expose/1252089,2025-09-19T15:54:06.894389+00:00,<built-in method title of str object at 0x000001F7F0930240>
-1252090,true,https://www.automobile.at/boerse/expose/1252090,2025-09-19T15:54:07.865370+00:00,<built-in method title of str object at 0x000001F7F0931440>
-1252091,true,https://www.automobile.at/boerse/expose/1252091,2025-09-19T15:54:08.824382+00:00,<built-in method title of str object at 0x000001F7F0930B40>
-1252092,true,https://www.automobile.at/boerse/expose/1252092,2025-09-19T15:54:09.744766+00:00,<built-in method title of str object at 0x000001F7F0932640>
-1252093,true,https://www.automobile.at/boerse/expose/1252093,2025-09-19T15:54:10.869810+00:00,<built-in method title of str object at 0x000001F7EFFA8FA0>
-1252094,true,https://www.automobile.at/boerse/expose/1252094,2025-09-19T15:54:11.967684+00:00,<built-in method title of str object at 0x000001F7F051C7D0>
-1252095,false,https://www.automobile.at/boerse/expose/1252095,2025-09-19T15:54:12.540308+00:00,NA
-1252096,false,https://www.automobile.at/boerse/expose/1252096,2025-09-19T15:54:13.125227+00:00,NA
-1252097,true,https://www.automobile.at/boerse/expose/1252097,2025-09-19T15:54:14.177477+00:00,<built-in method title of str object at 0x000001F7F0519940>
-1252098,false,https://www.automobile.at/boerse/expose/1252098,2025-09-19T15:54:14.746544+00:00,NA
-1252099,true,https://www.automobile.at/boerse/expose/1252099,2025-09-19T15:54:15.774464+00:00,<built-in method title of str object at 0x000001F7F0514060>
-1252100,true,https://www.automobile.at/boerse/expose/1252100,2025-09-19T15:54:16.941600+00:00,<built-in method title of str object at 0x000001F7F05257E0>
-1252101,true,https://www.automobile.at/boerse/expose/1252101,2025-09-19T15:54:18.023879+00:00,<built-in method title of str object at 0x000001F7F097D040>
-1252102,true,https://www.automobile.at/boerse/expose/1252102,2025-09-19T15:54:19.122494+00:00,<built-in method title of str object at 0x000001F7F0983AA0>
-1252103,true,https://www.automobile.at/boerse/expose/1252103,2025-09-19T15:54:20.235078+00:00,<built-in method title of str object at 0x000001F7EFFA73F0>
-1252104,true,https://www.automobile.at/boerse/expose/1252104,2025-09-19T15:54:21.265537+00:00,<built-in method title of str object at 0x000001F7F052C350>
-1252105,true,https://www.automobile.at/boerse/expose/1252105,2025-09-19T15:54:22.344963+00:00,<built-in method title of str object at 0x000001F7F0997EB0>
-1252106,true,https://www.automobile.at/boerse/expose/1252106,2025-09-19T15:54:23.430727+00:00,<built-in method title of str object at 0x000001F7F098E040>
-1252107,false,https://www.automobile.at/boerse/expose/1252107,2025-09-19T15:55:38.480064+00:00,NA
-1252108,true,https://www.automobile.at/boerse/expose/1252108,2025-09-19T15:57:05.726323+00:00,"{""title"":""Ford Grand C-Max Tit"
-1252109,true,https://www.automobile.at/boerse/expose/1252109,2025-09-19T15:57:06.766018+00:00,"{""title"":""Ford Transit 350 L2 "
-1252110,false,https://www.automobile.at/boerse/expose/1252110,2025-09-19T15:57:07.464295+00:00,NA
-1252111,false,https://www.automobile.at/boerse/expose/1252111,2025-09-19T15:57:08.149100+00:00,NA
-1252112,false,https://www.automobile.at/boerse/expose/1252112,2025-09-19T15:57:08.719882+00:00,NA
-1252113,true,https://www.automobile.at/boerse/expose/1252113,2025-09-19T15:57:09.857862+00:00,"{""title"":""BMW 318 d Advantage "
-1252114,false,https://www.automobile.at/boerse/expose/1252114,2025-09-19T15:57:10.487395+00:00,NA
-1252115,true,https://www.automobile.at/boerse/expose/1252115,2025-09-19T15:57:11.542043+00:00,"{""title"":""Volvo XC40 Momentum "
-1252116,true,https://www.automobile.at/boerse/expose/1252116,2025-09-19T15:57:12.600061+00:00,"{""title"":""Audi A3 35 TDI ''LED"
-1252117,true,https://www.automobile.at/boerse/expose/1252117,2025-09-19T15:57:13.748434+00:00,"{""title"":""Ford Fiesta Titanium"
-1252118,true,https://www.automobile.at/boerse/expose/1252118,2025-09-19T15:57:14.844158+00:00,"{""title"":""Nissan Qashqai 1.7 N"
-1252119,true,https://www.automobile.at/boerse/expose/1252119,2025-09-19T15:57:15.840246+00:00,"{""title"":""Skoda Octavia Combi "
-1252120,true,https://www.automobile.at/boerse/expose/1252120,2025-09-19T15:57:16.969299+00:00,"{""title"":""Mercedes A 180 Kompa"
-1252121,false,https://www.automobile.at/boerse/expose/1252121,2025-09-19T15:57:17.534491+00:00,NA
-1252122,true,https://www.automobile.at/boerse/expose/1252122,2025-09-19T15:57:18.579625+00:00,"{""title"":""Mercedes EQE SUV EQE"
-1252123,true,https://www.automobile.at/boerse/expose/1252123,2025-09-19T15:57:19.637252+00:00,"{""title"":""VW Passat 2.0 TDI BM"
-1252124,true,https://www.automobile.at/boerse/expose/1252124,2025-09-19T15:57:20.719153+00:00,"{""title"":""Ford Mondeo Travelle"
-1252125,false,https://www.automobile.at/boerse/expose/1252125,2025-09-19T15:57:21.262439+00:00,NA
-1252126,false,https://www.automobile.at/boerse/expose/1252126,2025-09-19T15:57:21.863786+00:00,NA
-1252127,true,https://www.automobile.at/boerse/expose/1252127,2025-09-19T15:57:22.945081+00:00,"{""title"":""Ford Kuga 2,5 Durate"
-1252128,true,https://www.automobile.at/boerse/expose/1252128,2025-09-19T15:57:24.017440+00:00,"{""title"":""MG ZS HEV+ +RFK+ACC"""
-1252129,true,https://www.automobile.at/boerse/expose/1252129,2025-09-19T15:57:25.094680+00:00,"{""title"":""MG ZS HEV+ +RFK+ACC"""
-1252130,true,https://www.automobile.at/boerse/expose/1252130,2025-09-19T15:57:26.049666+00:00,"{""title"":""MG ZS HEV+ +RFK+ACC"""
-1252131,true,https://www.automobile.at/boerse/expose/1252131,2025-09-19T15:57:26.991589+00:00,"{""title"":""MG ZS HEV+ +RFK+ACC"""
-1252132,true,https://www.automobile.at/boerse/expose/1252132,2025-09-19T15:57:27.986530+00:00,"{""title"":""MG MG3 Select +ACC+R"
-1252133,true,https://www.automobile.at/boerse/expose/1252133,2025-09-19T15:57:28.988402+00:00,"{""title"":""MG ZS HEV+ +RFK+ACC"""
-1252134,true,https://www.automobile.at/boerse/expose/1252134,2025-09-19T15:57:29.988003+00:00,"{""title"":""MG ZS HEV+ +RFK+ACC"""
-1252135,true,https://www.automobile.at/boerse/expose/1252135,2025-09-19T15:57:30.952216+00:00,"{""title"":""MG MG3 1,5 HEV Luxur"
-1252136,true,https://www.automobile.at/boerse/expose/1252136,2025-09-19T15:57:32.032050+00:00,"{""title"":""MG MG3 1,5 HEV Luxur"
+1251923,false,https://www.automobile.at/boerse/expose/1251923,2025-09-20T12:49:05.635702+00:00,NA
+1251924,false,https://www.automobile.at/boerse/expose/1251924,2025-09-20T12:49:06.141025+00:00,NA
+1251925,false,https://www.automobile.at/boerse/expose/1251925,2025-09-20T12:49:06.672388+00:00,NA
+1251926,true,https://www.automobile.at/boerse/expose/1251926,2025-09-20T12:51:47.755041+00:00," T-Cross Friends TSI DSG"",""isTaxDeductib"
+1251927,true,https://www.automobile.at/boerse/expose/1251927,2025-09-20T12:51:48.771350+00:00,rcedes GLE Coupé AMG GLE 53 HYBRID 4MATI
+1251928,false,https://www.automobile.at/boerse/expose/1251928,2025-09-20T12:51:49.415973+00:00,NA
+1251929,true,https://www.automobile.at/boerse/expose/1251929,2025-09-20T12:51:50.369933+00:00,"ugeot 5008 1,5 BHDI 130 S&S EAT8 *Leder*"
+1251930,true,https://www.automobile.at/boerse/expose/1251930,2025-09-20T12:51:51.396975+00:00,"W 320 d xDrive Touring"",""isTaxDeductible"
+1251931,true,https://www.automobile.at/boerse/expose/1251931,2025-09-20T12:51:52.457485+00:00,"rsche Macan Turbo 3,6 DSG Allrad"",""isTax"
+1251932,false,https://www.automobile.at/boerse/expose/1251932,2025-09-20T12:51:52.866859+00:00,NA
+1251933,false,https://www.automobile.at/boerse/expose/1251933,2025-09-20T12:51:53.313726+00:00,NA
+1251934,true,https://www.automobile.at/boerse/expose/1251934,2025-09-20T12:51:54.306927+00:00,"W X1 xDrive20d 48V Aut."",""isTaxDeductibl"
+1251935,true,https://www.automobile.at/boerse/expose/1251935,2025-09-20T12:51:55.379714+00:00,"rd Kuga ST-LINE X  2,5 PHEV 225PS"",""isTa"
+1251936,true,https://www.automobile.at/boerse/expose/1251936,2025-09-20T12:51:56.484074+00:00,W X6 M Competition Paket | BMW Laserlich
+1251937,true,https://www.automobile.at/boerse/expose/1251937,2025-09-20T12:51:57.459789+00:00," ZS HEV Luxury/25"",""isTaxDeductible"":tru"
+1251938,true,https://www.automobile.at/boerse/expose/1251938,2025-09-20T12:51:58.533356+00:00,el Grandland X 1.2 Turbo Business Elegan
+1251939,true,https://www.automobile.at/boerse/expose/1251939,2025-09-20T12:51:59.385449+00:00,"zuki Swift 1.2 HYBRID ALLGRIP flash"",""is"
+1251940,true,https://www.automobile.at/boerse/expose/1251940,2025-09-20T12:52:00.468950+00:00,"undai i30 CW 1,0 T-GDI Level 3 Plus*Navi"
+1251941,true,https://www.automobile.at/boerse/expose/1251941,2025-09-20T12:52:01.417626+00:00,"yota Corolla 1,8 Hybrid Active Drive"",""i"
+1251942,true,https://www.automobile.at/boerse/expose/1251942,2025-09-20T12:52:02.371054+00:00,"sla Model S 75D *'NAVI+LED+19\""ALU*"",""is"
+1251943,true,https://www.automobile.at/boerse/expose/1251943,2025-09-20T12:52:03.418515+00:00,"oda Kodiaq 2,0 TDI SCR 4x4 Style SC DSG "
+1251944,true,https://www.automobile.at/boerse/expose/1251944,2025-09-20T12:52:04.587419+00:00,di e-tron 55 quattro 95kWh *2022er+S-LIN
+1251945,true,https://www.automobile.at/boerse/expose/1251945,2025-09-20T12:52:05.654488+00:00," ID.3 Pro S 77kWh *2022er+WENIG KM*"",""is"
+1251946,true,https://www.automobile.at/boerse/expose/1251946,2025-09-20T12:52:06.587311+00:00,nd Rover Range Rover Velar Velar D180 Al
+1251947,true,https://www.automobile.at/boerse/expose/1251947,2025-09-20T12:52:07.446125+00:00,"undai TUCSON 1,6 CRDI 2WD Edition 30"",""i"
+1251948,true,https://www.automobile.at/boerse/expose/1251948,2025-09-20T12:52:08.430529+00:00,"nault Captur II Zen"",""isTaxDeductible"":f"
+1251949,true,https://www.automobile.at/boerse/expose/1251949,2025-09-20T12:52:09.419189+00:00,nd Rover Range Rover 3.0D A/B Head-Up DA
+1251950,true,https://www.automobile.at/boerse/expose/1251950,2025-09-20T12:52:10.438991+00:00,ssan Primastar Kombi L1H1 dCi 150 9 Sitz
+1251951,true,https://www.automobile.at/boerse/expose/1251951,2025-09-20T12:52:11.380939+00:00,nault Kangoo Complete 33kWh mit Batterie
+1251952,true,https://www.automobile.at/boerse/expose/1251952,2025-09-20T12:52:12.320938+00:00,nault Kangoo Complete 33kWh mit Batterie
+1251953,true,https://www.automobile.at/boerse/expose/1251953,2025-09-20T12:52:13.488731+00:00,nault Kangoo Complete 33kWh mit Batterie
+1251954,true,https://www.automobile.at/boerse/expose/1251954,2025-09-20T12:52:43.229032+00:00,Skoda Superb Kombi Style IV 156/218 DSG *M
+1251955,true,https://www.automobile.at/boerse/expose/1251955,2025-09-20T12:52:44.274302+00:00,"SEAT Leon Style 1.0 TSI"",""isTaxDeductible"""
+1251956,true,https://www.automobile.at/boerse/expose/1251956,2025-09-20T12:52:45.336718+00:00,"VW Caddy Cargo Cargo Entry TDI"",""isTaxDedu"
+1251957,true,https://www.automobile.at/boerse/expose/1251957,2025-09-20T12:52:46.386482+00:00,"VW Tiguan Sport eHybrid DSG 150 kW"",""isTax"
+1251958,true,https://www.automobile.at/boerse/expose/1251958,2025-09-20T12:52:47.321714+00:00,"Porsche Cayenne S E-Hybrid"",""isTaxDeductib"
+1251959,true,https://www.automobile.at/boerse/expose/1251959,2025-09-20T12:52:48.219339+00:00,"Skoda Kamiq Selection TSI"",""isTaxDeductibl"
+1251960,true,https://www.automobile.at/boerse/expose/1251960,2025-09-20T12:52:49.082982+00:00,"VW Golf Rabbit eHybrid DSG 150 kW"",""isTaxD"
+1251961,true,https://www.automobile.at/boerse/expose/1251961,2025-09-20T12:52:49.879920+00:00,"SEAT Tarraco Style 1.5 TSI ACT"",""isTaxDedu"
+1251962,true,https://www.automobile.at/boerse/expose/1251962,2025-09-20T12:52:50.719372+00:00,"VW T5 Kombi Entry BMT TDI"",""isTaxDeductibl"
+1251963,true,https://www.automobile.at/boerse/expose/1251963,2025-09-20T12:52:51.532875+00:00,"VW Golf R R-Line mHeV TSI DSG"",""isTaxDeduc"
+1251964,true,https://www.automobile.at/boerse/expose/1251964,2025-09-20T12:52:52.447306+00:00,"Skoda Kamiq Selection TSI"",""isTaxDeductibl"
+1251965,true,https://www.automobile.at/boerse/expose/1251965,2025-09-20T12:52:53.428096+00:00,"VW Golf e-Golf"",""isTaxDeductible"":false,""m"
+1251966,false,https://www.automobile.at/boerse/expose/1251966,2025-09-20T12:52:53.935952+00:00,NA
+1251967,false,https://www.automobile.at/boerse/expose/1251967,2025-09-20T12:52:54.472788+00:00,NA
+1251968,false,https://www.automobile.at/boerse/expose/1251968,2025-09-20T12:52:54.982043+00:00,NA
+1251969,true,https://www.automobile.at/boerse/expose/1251969,2025-09-20T12:52:55.880369+00:00,Ford Transit Custom 300 L2 320 L2 Trend Do
+1251970,false,https://www.automobile.at/boerse/expose/1251970,2025-09-20T12:52:56.284383+00:00,NA
+1251971,true,https://www.automobile.at/boerse/expose/1251971,2025-09-20T12:52:57.112103+00:00,Alfa Romeo Tonale Edizione Speciale 1.3 T4
+1251972,true,https://www.automobile.at/boerse/expose/1251972,2025-09-20T12:52:58.051332+00:00,"Skoda Karoq Drive 4x4 2,0 TDI DSG *VOLL LE"
+1251973,true,https://www.automobile.at/boerse/expose/1251973,2025-09-20T12:52:58.997847+00:00,"VW Passat Business 1,5 TSI Navi/Kamera/LED"
+1251974,true,https://www.automobile.at/boerse/expose/1251974,2025-09-20T12:52:59.823717+00:00,Cupra Formentor 1.5 TSI OPF Virtual/LED/PD
+1251975,true,https://www.automobile.at/boerse/expose/1251975,2025-09-20T12:53:00.688530+00:00,Jeep Compass 1.3 PHEV Night Eagle 4xe Aut.
+1251976,true,https://www.automobile.at/boerse/expose/1251976,2025-09-20T12:53:01.517607+00:00,"Citroen C5 Aircross 225e PHEV/MY23/LED"",""i"
+1251977,true,https://www.automobile.at/boerse/expose/1251977,2025-09-20T12:53:02.458557+00:00,"Hyundai KONA Elektro (SX2) Smart Line 48,4"
+1251978,false,https://www.automobile.at/boerse/expose/1251978,2025-09-20T12:53:02.895997+00:00,NA
+1251979,true,https://www.automobile.at/boerse/expose/1251979,2025-09-20T12:53:03.778174+00:00,Audi e-tron quattro S Matrix/370kW/B&O/21“
+1251980,true,https://www.automobile.at/boerse/expose/1251980,2025-09-20T12:53:04.655429+00:00,VW Caddy Cargo Cargo 1.5 TSI Aut. VOLLLACK
+1251981,true,https://www.automobile.at/boerse/expose/1251981,2025-09-20T12:53:05.568393+00:00,"Skoda Fabia Selection TSI DSG"",""isTaxDeduc"
+1251982,true,https://www.automobile.at/boerse/expose/1251982,2025-09-20T12:53:06.545922+00:00,"VW Taigo Friends TSI"",""isTaxDeductible"":fa"
+1251983,true,https://www.automobile.at/boerse/expose/1251983,2025-09-20T12:53:07.467139+00:00,"VW Taigo 4Me TSI"",""isTaxDeductible"":false,"
+1251984,true,https://www.automobile.at/boerse/expose/1251984,2025-09-20T12:53:50.049500+00:00,"Skoda Kamiq Selection TSI DSG"",""isTaxDeduc"
+1251985,true,https://www.automobile.at/boerse/expose/1251985,2025-09-20T12:53:51.023055+00:00,"VW T-Roc Friends TSI"",""isTaxDeductible"":fa"
+1251986,true,https://www.automobile.at/boerse/expose/1251986,2025-09-20T12:53:52.054310+00:00,"Skoda Kodiaq Sportline iV TSI DSG"",""isTaxD"
+1251987,true,https://www.automobile.at/boerse/expose/1251987,2025-09-20T12:53:52.939512+00:00,"VW Passat Business eTSI DSG"",""isTaxDeducti"
+1251988,true,https://www.automobile.at/boerse/expose/1251988,2025-09-20T12:53:53.770061+00:00,"Cupra Leon 1.5 eTSI DSG 150 PS ACT"",""isTax"
+1251989,false,https://www.automobile.at/boerse/expose/1251989,2025-09-20T12:53:54.245648+00:00,NA
+1251990,true,https://www.automobile.at/boerse/expose/1251990,2025-09-20T12:53:55.100913+00:00,"Skoda Kamiq Selection TSI DSG"",""isTaxDeduc"
+1251991,true,https://www.automobile.at/boerse/expose/1251991,2025-09-20T12:53:56.036599+00:00,"Skoda Octavia Style TDI DSG"",""isTaxDeducti"
+1251992,true,https://www.automobile.at/boerse/expose/1251992,2025-09-20T12:53:56.909359+00:00,"Toyota C-HR 1,8 Hybrid E-CVT Active Drive"""
+1251993,true,https://www.automobile.at/boerse/expose/1251993,2025-09-20T12:53:57.911378+00:00,"Nissan Qashqai 1,3 MHEV N-Design+ X-Tronic"
+1251994,true,https://www.automobile.at/boerse/expose/1251994,2025-09-20T12:53:58.688900+00:00,Citroen Jumper Pritsche  35+ DK L4 BlueHDi
+1251995,true,https://www.automobile.at/boerse/expose/1251995,2025-09-20T12:53:59.500112+00:00,"Jeep Grand Cherokee 3,0 V6 CRD Overland"","""
+1251996,true,https://www.automobile.at/boerse/expose/1251996,2025-09-20T12:54:00.371310+00:00,Volvo XC60 B5 AWD Plus Black Edition Geart
+1251997,false,https://www.automobile.at/boerse/expose/1251997,2025-09-20T12:54:00.800018+00:00,NA
+1251998,true,https://www.automobile.at/boerse/expose/1251998,2025-09-20T12:54:01.789421+00:00,"VW Passat Business 2,0 SCR TDI DSG"",""isTax"
+1251999,true,https://www.automobile.at/boerse/expose/1251999,2025-09-20T12:54:02.664976+00:00,"Ford Transit Connect Grand  2,0 EcoBlue L2"
+1252000,true,https://www.automobile.at/boerse/expose/1252000,2025-09-20T12:54:03.537159+00:00,"Nissan Juke 1,0 N-Sport *NEU* *ab € 25.990"
+1252001,true,https://www.automobile.at/boerse/expose/1252001,2025-09-20T12:54:04.465775+00:00,"Skoda Kamiq Essence TSI"",""isTaxDeductible"""
+1252002,true,https://www.automobile.at/boerse/expose/1252002,2025-09-20T12:54:05.357895+00:00,"VW Golf Business TDI"",""isTaxDeductible"":fa"
+1252003,false,https://www.automobile.at/boerse/expose/1252003,2025-09-20T12:54:05.804397+00:00,NA
+1252004,false,https://www.automobile.at/boerse/expose/1252004,2025-09-20T12:54:06.262885+00:00,NA
+1252005,true,https://www.automobile.at/boerse/expose/1252005,2025-09-20T12:54:07.113179+00:00,"VW Passat GTE"",""isTaxDeductible"":false,""mo"
+1252006,true,https://www.automobile.at/boerse/expose/1252006,2025-09-20T12:54:07.984833+00:00,"VW Tayron Sport eHybrid DSG 150kW"",""isTaxD"
+1252007,true,https://www.automobile.at/boerse/expose/1252007,2025-09-20T12:54:09.062384+00:00,"Audi Q6 e-tron performance"",""isTaxDeductib"
+1252008,true,https://www.automobile.at/boerse/expose/1252008,2025-09-20T12:54:09.898825+00:00,"Skoda Elroq 60"",""isTaxDeductible"":true,""mo"
+1252009,false,https://www.automobile.at/boerse/expose/1252009,2025-09-20T12:54:10.338618+00:00,NA
+1252010,true,https://www.automobile.at/boerse/expose/1252010,2025-09-20T12:54:11.157015+00:00,"Skoda Enyaq Coupé Sportline 85x"",""isTaxDed"
+1252011,false,https://www.automobile.at/boerse/expose/1252011,2025-09-20T12:54:11.636711+00:00,NA
+1252012,false,https://www.automobile.at/boerse/expose/1252012,2025-09-20T12:54:12.053349+00:00,NA
+1252013,false,https://www.automobile.at/boerse/expose/1252013,2025-09-20T12:54:12.449709+00:00,NA
+1252014,false,https://www.automobile.at/boerse/expose/1252014,2025-09-20T13:12:31.462067+00:00,NA
+1252015,true,https://www.automobile.at/boerse/expose/1252015,2025-09-20T13:12:32.655671+00:00,"VW Passat 1,5 eTSI ACT Edition DSG *AHK*LE"
+1252016,true,https://www.automobile.at/boerse/expose/1252016,2025-09-20T13:12:33.756359+00:00,"VW Passat 1,5 eTSI ACT Edition DSG *AHK*LE"
+1252017,false,https://www.automobile.at/boerse/expose/1252017,2025-09-20T13:12:34.207492+00:00,NA
+1252018,true,https://www.automobile.at/boerse/expose/1252018,2025-09-20T13:12:35.100596+00:00,"Citroen C4 e-C4 136 50kWh Shine"",""isTaxDed"
+1252019,true,https://www.automobile.at/boerse/expose/1252019,2025-09-20T13:12:36.067282+00:00,"Ford Ranger Doppelkabine Wildtrak e-4WD 2,"
+1252020,true,https://www.automobile.at/boerse/expose/1252020,2025-09-20T13:12:37.026542+00:00,"Opel Mokka 1,4 Turbo Innovation Aut."",""isT"
+1252021,false,https://www.automobile.at/boerse/expose/1252021,2025-09-20T13:12:37.419736+00:00,NA
+1252022,true,https://www.automobile.at/boerse/expose/1252022,2025-09-20T13:12:38.303471+00:00,"SEAT Alhambra TSI Executive / Kommission"","
+1252023,true,https://www.automobile.at/boerse/expose/1252023,2025-09-20T13:12:39.243537+00:00,"Hyundai KONA Elektro 64,8kWh GO*€ 35.240,-"
+1252024,true,https://www.automobile.at/boerse/expose/1252024,2025-09-20T13:12:40.154955+00:00,"Cupra Leon 1.5 TSI 150 PS ACT"",""isTaxDeduc"
+1252025,true,https://www.automobile.at/boerse/expose/1252025,2025-09-20T13:12:40.962290+00:00,VW T7 Kastenwagen e-Transporter T7 Kastenw
+1252026,true,https://www.automobile.at/boerse/expose/1252026,2025-09-20T13:12:41.801333+00:00,"VW Golf Business TDI"",""isTaxDeductible"":fa"
+1252027,true,https://www.automobile.at/boerse/expose/1252027,2025-09-20T13:12:42.750883+00:00,"Audi A3 30 TDI"",""isTaxDeductible"":false,""m"
+1252028,false,https://www.automobile.at/boerse/expose/1252028,2025-09-20T13:12:43.227880+00:00,NA
+1252029,false,https://www.automobile.at/boerse/expose/1252029,2025-09-20T13:12:43.681409+00:00,NA
+1252030,false,https://www.automobile.at/boerse/expose/1252030,2025-09-20T13:12:44.230508+00:00,NA
+1252031,true,https://www.automobile.at/boerse/expose/1252031,2025-09-20T13:12:45.076460+00:00,"Skoda Octavia Selection TDI DSG"",""isTaxDed"
+1252032,true,https://www.automobile.at/boerse/expose/1252032,2025-09-20T13:12:45.993428+00:00,"VW Touareg R-Line TDI 4MOTION"",""isTaxDeduc"
+1252033,true,https://www.automobile.at/boerse/expose/1252033,2025-09-20T13:12:46.954232+00:00,"Renault Master  L2H2 3,5t dCi 130"",""isTaxD"
+1252034,true,https://www.automobile.at/boerse/expose/1252034,2025-09-20T13:12:47.825288+00:00,"VW Golf Sportsvan Rabbit 1,6 BMT TDI DSG"","
+1252035,true,https://www.automobile.at/boerse/expose/1252035,2025-09-20T13:12:48.737456+00:00,"BMW X1 xDrive20d"",""isTaxDeductible"":false,"
+1252036,true,https://www.automobile.at/boerse/expose/1252036,2025-09-20T13:12:49.610871+00:00,"BMW 530 e xDrive"",""isTaxDeductible"":false,"
+1252037,true,https://www.automobile.at/boerse/expose/1252037,2025-09-20T13:12:50.485631+00:00,"BMW 320 d xDrive"",""isTaxDeductible"":false,"
+1252038,true,https://www.automobile.at/boerse/expose/1252038,2025-09-20T13:12:51.315601+00:00,"BMW X5 xDrive45e"",""isTaxDeductible"":true,"""
+1252039,false,https://www.automobile.at/boerse/expose/1252039,2025-09-20T13:12:51.731041+00:00,NA
+1252040,false,https://www.automobile.at/boerse/expose/1252040,2025-09-20T13:12:52.160913+00:00,NA

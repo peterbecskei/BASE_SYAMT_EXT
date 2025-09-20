@@ -20,7 +20,7 @@ class Config:
     # START_ID falls back to value in LastID.TXT if present
     START_ID = 1251923
     BASE_URL = 'https://www.automobile.at/boerse/expose/'
-    CHECK_INTERVAL_SECONDS = 0.35  # 650 ms
+    CHECK_INTERVAL_SECONDS = 0.2  # 650 ms
 
     URL_DATA_CSV = 'URL_data.csv'
     LAST_ID_FILE = 'LastID.TXT'
@@ -160,8 +160,9 @@ def check_url(url_data: dict, _id: int) -> bool:
             'exists': True,
             'url': url,
             'timestamp': now_iso(),
-            'elemdata': elemdata[:30],
+            'elemdata': elemdata[10:52],
         }
+        print(_id, url_data[_id]['elemdata'])
         return True
     else:
         url_data[_id] = {
